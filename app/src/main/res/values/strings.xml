@@ -2,7 +2,12 @@
     <string name="app_name">Visiting Card with Photo</string>
     <string name="student_name">A.T.M. Saidul Karim</string>
     <string name="student_roll">CSE202202031</string>
-    <string name="batch_no">29th Batch</string>
+    <string name="batch_no">29<sup>th</sup> Batch</string>
     <string name="department_name">Department of Computer Science and Engineering</string>
     <string name="faculty_name">Faculty of Mathematical &amp; Physical Sciences</string>
+    <string name="university_name">Jahangirnagar University</string>
+    <string name="contact_number">+880 151 149 5465</string>
+    <string name="student_email">saidul.juniv@gmail.com</string>
+    <string name="address_line">Savar, Dhaka</string>
+    <string name="web_site">https://github.com/saidul-ju</string>
 </resources>
